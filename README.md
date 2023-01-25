@@ -1,15 +1,13 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emptycastie&label=Profile%20views&color=0e75b6&style=flat" alt="emptycastie" /> </p>
+
 <h1 align="center">Hi 👋, I'm Empty Castle</h1>
 <h3 align="center">A FullStack Developer From South Korea</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emptycastie&label=Profile%20views&color=0e75b6&style=flat" alt="emptycastie" /> </p>
 
-- 🌱 I’m currently learning **MongoDB**
+I'm studying Bachelor of Computer Science. I’m currently interesting in react, typescript, and MongoDB.
+<br/>
+I'm into **open source development** and I create projects and post on my GitHub profile.<br/>
 
-- 💬 Ask me about **react, typescript, and MongoDB**
-
-- 📫 How to reach me **seongbincho1103@gmail.com**
-
-- ⚡ Fun fact **I served in Korean Air Force for a year and half**
 
 <hr>
 
@@ -38,10 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emptycastie&" alt="emptycastie" /></p>
 <hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/seongbin cho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seongbin cho" height="30" width="40" /></a>
-</p>
-<hr>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/seongbincho2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seongbincho2" /></a></p>
