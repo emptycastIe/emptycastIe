@@ -32,10 +32,10 @@ I'm into **open source development** and I create projects and post on my GitHub
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emptycastie&show_icons=true&locale=en&layout=compact" alt="emptycastie" /></p>
 
-<p>&nbsp<img align="center" src="https://github-readme-stats.vercel.app/api?username=emptycastie&show_icons=true&locale=en" alt="emptycastie" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emptycastie&show_icons=true&locale=en" alt="emptycastie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emptycastie&" alt="emptycastie" /></p>
-<hr>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/seongbincho2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seongbincho2" /></a></p>
