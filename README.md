@@ -29,11 +29,6 @@ I'm into **open source development** and I create projects and post on my GitHub
 <a href="https://www.instagram.com/seong_bin__cho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <hr>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emptycastie&show_icons=true&locale=en&layout=compact" alt="emptycastie" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emptycastie&show_icons=true&locale=en" alt="emptycastie" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emptycastie&" alt="emptycastie" /></p>
 
 
