@@ -5,7 +5,6 @@
 
 
 I'm studying Bachelor of Computer Science. I’m currently interesting in react, typescript, and MongoDB.
-<br/>
 I'm into **open source development** and I create projects and post on my GitHub profile.<br/>
 
 
