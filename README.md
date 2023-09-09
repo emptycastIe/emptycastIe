@@ -9,6 +9,7 @@ I'm into **open source development** and I create projects and post on my GitHub
 
 
 <hr>
+<hr>
 
 ## Languages and Tools:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
